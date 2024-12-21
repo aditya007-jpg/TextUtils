@@ -36,6 +36,11 @@ function App() {
       <Alert alert={alert} />
       <div className="container my-3">
         <Textform heading="Enter the text to analyse" mode={mode} />
+
+
+        <h1>
+          
+        </h1>
       </div>
     </>
   );
